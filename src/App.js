@@ -7,9 +7,9 @@ const App = () => {
 
   return (
     <div className="App">
-      <Mensage color='red' message='Estamos' />
-      <Mensage color='yellow' message='Trabajando' />
-      <Mensage color='green' message='En nosotros' />
+      <Mensage  message='Estamos' />
+      <Mensage  message='Trabajando' />
+      <Mensage  message='En nosotros' />
     </div>
   );
 }
